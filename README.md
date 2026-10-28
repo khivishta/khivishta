@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khivishta. I am Mauritian - Italian. I have a bachelor and masters in Engineering. I have a PhD in Applications of machine learning in engineering systems.
+- 👋 Hi, I’m @khivishta. I am Mauritian - Italian. I have a Bachelor in Engineering and a Masters in Engineering. I have completed my PhD in Applications of machine learning in engineering systems from University of Nottingham UK onsite.
 - 👀 I’m interested in working on meaningful projects that can improve our lives.
 - 🌱 I’m currently working with python ,Tensorflow , Keras , Sklearn among other libraries and APIs. I am also doing Exploratory Data Analysis , data Visualisation and data preprocessing and data modelling using machine learning particularly interested in deep learning models.
 - 💞️ I’m looking to collaborate on any machine learning projects. 
